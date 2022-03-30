@@ -1,0 +1,5 @@
+XSym
+0066
+c575345a7d72808401241d49813d3bda
+../../../FirebaseFirestore/Firestore/Source/Local/FSTPersistence.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

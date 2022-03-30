@@ -1,0 +1,5 @@
+XSym
+0080
+7146cd6704f6779c3dc6c78ad14a4edb
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/nanopb/writer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

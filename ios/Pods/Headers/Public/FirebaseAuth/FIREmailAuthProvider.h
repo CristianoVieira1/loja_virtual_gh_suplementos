@@ -1,0 +1,5 @@
+XSym
+0072
+edb13e5b94aa8ecfbd615d052ee72678
+../../../FirebaseAuth/Firebase/Auth/Source/Public/FIREmailAuthProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

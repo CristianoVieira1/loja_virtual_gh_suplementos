@@ -1,0 +1,5 @@
+XSym
+0088
+3459d159207c8a0d12f9d499a164b59d
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/api/document_snapshot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

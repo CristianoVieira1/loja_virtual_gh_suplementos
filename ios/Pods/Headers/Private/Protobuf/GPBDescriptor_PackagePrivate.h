@@ -1,0 +1,5 @@
+XSym
+0059
+96f9755fa3e671dc536fb1deaef930f1
+../../../Protobuf/objectivec/GPBDescriptor_PackagePrivate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

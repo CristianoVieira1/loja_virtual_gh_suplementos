@@ -1,0 +1,5 @@
+XSym
+0083
+37b7f790b3721d1c999b05735c12d259
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/query_data.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

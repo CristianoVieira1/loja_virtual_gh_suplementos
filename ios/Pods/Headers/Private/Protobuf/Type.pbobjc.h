@@ -1,0 +1,5 @@
+XSym
+0058
+171c6d74d8a1c5a1438b57e1438b09de
+../../../Protobuf/objectivec/google/protobuf/Type.pbobjc.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

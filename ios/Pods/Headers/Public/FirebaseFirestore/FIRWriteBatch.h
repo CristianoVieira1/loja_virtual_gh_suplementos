@@ -1,0 +1,5 @@
+XSym
+0066
+c735042dcae4617d0104529de718af78
+../../../FirebaseFirestore/Firestore/Source/Public/FIRWriteBatch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

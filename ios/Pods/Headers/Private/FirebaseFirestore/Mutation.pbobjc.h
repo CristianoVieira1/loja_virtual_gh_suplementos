@@ -1,0 +1,5 @@
+XSym
+0082
+6f35f0de6e2105f89afe1c2248d300b9
+../../../FirebaseFirestore/Firestore/Protos/objc/firestore/local/Mutation.pbobjc.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0081
+fad1c002a52d8795b18bc3f18c910c59
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/model/document.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

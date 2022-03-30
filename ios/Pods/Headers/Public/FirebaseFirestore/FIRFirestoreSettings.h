@@ -1,0 +1,5 @@
+XSym
+0073
+7318502d9321e369378874f145a49943
+../../../FirebaseFirestore/Firestore/Source/Public/FIRFirestoreSettings.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

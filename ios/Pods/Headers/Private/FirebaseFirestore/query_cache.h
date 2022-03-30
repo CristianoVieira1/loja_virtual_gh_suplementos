@@ -1,0 +1,5 @@
+XSym
+0084
+2e903ad8f42348899282fb45f9c6568f
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/query_cache.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

@@ -1,0 +1,5 @@
+XSym
+0083
+c06a9293c819d344f2f238f590594f36
+../../../FirebaseFirestore/Firestore/Protos/objc/google/firestore/v1/Query.pbobjc.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

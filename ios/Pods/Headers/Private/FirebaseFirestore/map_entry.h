@@ -1,0 +1,5 @@
+XSym
+0086
+fb4749d25a85c332efab84314f23aed9
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/immutable/map_entry.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

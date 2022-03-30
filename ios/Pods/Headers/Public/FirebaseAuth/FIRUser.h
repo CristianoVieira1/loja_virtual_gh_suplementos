@@ -1,0 +1,5 @@
+XSym
+0059
+7b52236f001dd1c8d73b1c7bd8b631db
+../../../FirebaseAuth/Firebase/Auth/Source/Public/FIRUser.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

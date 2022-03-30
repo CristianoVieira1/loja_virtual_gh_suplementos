@@ -1,0 +1,5 @@
+XSym
+0090
+b97d0c141365808bdc3f178a6ec2d03b
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/util/objc_compatibility.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

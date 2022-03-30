@@ -1,0 +1,5 @@
+XSym
+0094
+4c41e52fe7d87410829146700f7bc67a
+../../../../../../../../../../gRPC-C++/src/core/ext/transport/chttp2/transport/hpack_encoder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

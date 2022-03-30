@@ -1,0 +1,5 @@
+XSym
+0103
+32f97f20605bd81a21a8126e9620f036
+../../../FirebaseAuth/Firebase/Auth/Source/AuthProviders/EmailPassword/FIREmailPasswordAuthCredential.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

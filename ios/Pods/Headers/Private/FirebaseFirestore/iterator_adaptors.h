@@ -1,0 +1,5 @@
+XSym
+0089
+998cb92f4444ed3327ebe5e2c4006698
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/util/iterator_adaptors.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0089
+7e490fb792a071f2fdba9477fb8f941f
+../../../FirebaseAuth/Firebase/Auth/Source/AuthProviders/Google/FIRGoogleAuthCredential.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

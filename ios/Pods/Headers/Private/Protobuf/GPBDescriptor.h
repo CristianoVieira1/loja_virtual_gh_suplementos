@@ -1,0 +1,5 @@
+XSym
+0044
+3f33538917786f5c264efb12bf7844aa
+../../../Protobuf/objectivec/GPBDescriptor.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

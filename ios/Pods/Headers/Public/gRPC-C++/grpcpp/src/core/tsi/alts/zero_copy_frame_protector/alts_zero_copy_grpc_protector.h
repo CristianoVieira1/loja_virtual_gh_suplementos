@@ -1,0 +1,5 @@
+XSym
+0111
+afb0e4fd054ff9eafdf516a5b93867c0
+../../../../../../../../../gRPC-C++/src/core/tsi/alts/zero_copy_frame_protector/alts_zero_copy_grpc_protector.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

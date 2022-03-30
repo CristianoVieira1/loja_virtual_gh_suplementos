@@ -1,0 +1,5 @@
+XSym
+0064
+3eae291775aec21b08b51c1009fe2624
+../../../FirebaseFirestore/Firestore/Source/Core/FSTSyncEngine.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

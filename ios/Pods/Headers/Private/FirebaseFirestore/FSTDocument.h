@@ -1,0 +1,5 @@
+XSym
+0063
+46e1cbd492616ad5ad6f63c4910155c3
+../../../FirebaseFirestore/Firestore/Source/Model/FSTDocument.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

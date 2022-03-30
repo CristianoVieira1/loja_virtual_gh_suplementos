@@ -1,0 +1,5 @@
+XSym
+0093
+e81eafb5e0e2ba3fca0a6d2972cc98be
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/model/transform_operations.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

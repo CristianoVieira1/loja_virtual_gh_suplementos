@@ -1,0 +1,5 @@
+XSym
+0075
+be2d5e4293dd2228406b436c5a058560
+../../../FirebaseFirestore/Firestore/Source/API/FIRQuerySnapshot+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

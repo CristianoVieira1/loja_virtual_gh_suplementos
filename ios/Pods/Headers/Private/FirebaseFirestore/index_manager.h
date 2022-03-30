@@ -1,0 +1,5 @@
+XSym
+0086
+687eb7f6ef63200b0c08d79690bf56d1
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/index_manager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

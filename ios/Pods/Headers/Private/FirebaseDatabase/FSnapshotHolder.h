@@ -1,0 +1,5 @@
+XSym
+0066
+d65cac0a25716d4808b3ffb69169f73a
+../../../FirebaseDatabase/Firebase/Database/Core/FSnapshotHolder.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

@@ -1,0 +1,5 @@
+XSym
+0081
+01d7992de9408254f7fe1b7582f70f5b
+../../../../.symlinks/plugins/auro_shadow_text/ios/Classes/AuroShadowTextPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

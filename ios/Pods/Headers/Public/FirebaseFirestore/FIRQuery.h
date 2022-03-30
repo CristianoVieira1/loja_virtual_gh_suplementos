@@ -1,0 +1,5 @@
+XSym
+0061
+fe01208fbb5678d768ce2ed3f6a126e7
+../../../FirebaseFirestore/Firestore/Source/Public/FIRQuery.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

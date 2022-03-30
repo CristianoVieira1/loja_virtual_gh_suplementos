@@ -1,0 +1,5 @@
+XSym
+0083
+151d443d5f9ebeabb3b0276a841d0037
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/core/transaction.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

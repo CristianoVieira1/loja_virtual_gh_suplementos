@@ -1,0 +1,5 @@
+XSym
+0056
+3c62a8142f58cd06e535609927cc3d4a
+../../../FirebaseCore/Firebase/Core/Private/FIRVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

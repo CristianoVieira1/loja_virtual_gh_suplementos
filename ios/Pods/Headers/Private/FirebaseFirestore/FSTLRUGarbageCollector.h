@@ -1,0 +1,5 @@
+XSym
+0074
+41c2f0637ca8fe35bb13797e0e136f42
+../../../FirebaseFirestore/Firestore/Source/Local/FSTLRUGarbageCollector.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

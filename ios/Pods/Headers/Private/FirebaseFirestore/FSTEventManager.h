@@ -1,0 +1,5 @@
+XSym
+0066
+cbc877f6a051d9f7444c0f0583c0fcbd
+../../../FirebaseFirestore/Firestore/Source/Core/FSTEventManager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

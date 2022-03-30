@@ -1,0 +1,5 @@
+XSym
+0074
+7e13f4dbd4b60a067b6ed6caa5fa7e24
+../../../FirebaseAuth/Firebase/Auth/Source/RPCs/FIRSignUpNewUserResponse.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

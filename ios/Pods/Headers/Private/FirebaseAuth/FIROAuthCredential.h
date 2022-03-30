@@ -1,0 +1,5 @@
+XSym
+0070
+67298d052df93969564b2062f0841b79
+../../../FirebaseAuth/Firebase/Auth/Source/Public/FIROAuthCredential.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

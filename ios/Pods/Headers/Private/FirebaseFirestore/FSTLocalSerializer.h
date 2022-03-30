@@ -1,0 +1,5 @@
+XSym
+0070
+aac9f11c781de5649e99eb0a1dc273dd
+../../../FirebaseFirestore/Firestore/Source/Local/FSTLocalSerializer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

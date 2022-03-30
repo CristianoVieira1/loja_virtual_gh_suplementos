@@ -1,0 +1,5 @@
+XSym
+0076
+5c061e73fc5a502c06b5fd172f59e285
+../../../../.symlinks/plugins/firebase_auth/ios/Classes/FirebaseAuthPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

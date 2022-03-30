@@ -1,0 +1,5 @@
+XSym
+0088
+022f98a6cf67f4573cdaa707a462bb31
+../../../FirebaseFirestore/Firestore/core/include/firebase/firestore/firestore_version.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

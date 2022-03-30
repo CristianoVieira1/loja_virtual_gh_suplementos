@@ -1,0 +1,5 @@
+XSym
+0057
+f42da9f680b3978aa16f7442c8056485
+../../../FirebaseCore/Firebase/Core/Public/FirebaseCore.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

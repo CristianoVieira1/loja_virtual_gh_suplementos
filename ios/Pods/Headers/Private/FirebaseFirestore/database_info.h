@@ -1,0 +1,5 @@
+XSym
+0085
+2fd4f98689bb2beb87fbd729f6c8b89e
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/core/database_info.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

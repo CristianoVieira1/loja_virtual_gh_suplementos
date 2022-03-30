@@ -1,0 +1,5 @@
+XSym
+0077
+4c1209f56f0fed2c72e2d0182520cc76
+../../../FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthRequestConfiguration.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

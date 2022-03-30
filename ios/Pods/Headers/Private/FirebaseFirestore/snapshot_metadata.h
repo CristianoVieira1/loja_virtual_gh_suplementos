@@ -1,0 +1,5 @@
+XSym
+0088
+6838772deecf8805def18f39ca48d1ff
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/api/snapshot_metadata.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

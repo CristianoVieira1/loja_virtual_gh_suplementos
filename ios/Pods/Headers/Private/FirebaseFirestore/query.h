@@ -1,0 +1,5 @@
+XSym
+0077
+0609333639d571b1da9ff9c4fdb36d2f
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/core/query.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

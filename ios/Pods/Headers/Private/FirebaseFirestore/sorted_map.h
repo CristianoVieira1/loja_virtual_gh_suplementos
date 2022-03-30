@@ -1,0 +1,5 @@
+XSym
+0087
+42aaa1ea2113e1dea1fa3224e05a1bf0
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/immutable/sorted_map.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

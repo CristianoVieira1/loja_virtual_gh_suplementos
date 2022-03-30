@@ -1,0 +1,5 @@
+XSym
+0072
+655d726631d0dbd66c7c010b5b7a2a7f
+../../../FirebaseFirestore/Firestore/Source/Public/FIRDocumentSnapshot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

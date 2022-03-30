@@ -1,0 +1,5 @@
+XSym
+0092
+8505ade8fb6c3548ff088fdc6225c66e
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/leveldb_transaction.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

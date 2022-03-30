@@ -1,0 +1,5 @@
+XSym
+0071
+1349d7179d960c89bd9d2840c8c6eff1
+../../../FirebaseFirestore/Firestore/Source/Local/FSTLocalViewChanges.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

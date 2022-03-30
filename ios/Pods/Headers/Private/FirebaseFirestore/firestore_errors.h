@@ -1,0 +1,5 @@
+XSym
+0087
+38e6b4b7b12ae42579949a4a4461b5c7
+../../../FirebaseFirestore/Firestore/core/include/firebase/firestore/firestore_errors.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

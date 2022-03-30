@@ -1,0 +1,5 @@
+XSym
+0089
+74a9a1d4b3d3bfa0d5c400446f41ce11
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/local_serializer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

@@ -1,0 +1,5 @@
+XSym
+0069
+cb71c6c043cff0d55c06237747bc102b
+../../../FirebaseFirestore/Firestore/Source/Core/FSTFirestoreClient.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

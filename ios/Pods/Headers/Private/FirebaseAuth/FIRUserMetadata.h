@@ -1,0 +1,5 @@
+XSym
+0067
+86999a9bdcfaf339dc50c33eb2e91cab
+../../../FirebaseAuth/Firebase/Auth/Source/Public/FIRUserMetadata.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

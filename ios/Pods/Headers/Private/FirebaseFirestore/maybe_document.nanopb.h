@@ -1,0 +1,5 @@
+XSym
+0090
+48729bc467de9741257faaf84e5ccd9e
+../../../FirebaseFirestore/Firestore/Protos/nanopb/firestore/local/maybe_document.nanopb.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

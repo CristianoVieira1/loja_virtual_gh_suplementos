@@ -1,0 +1,5 @@
+XSym
+0065
+bc795e3268f995e814021e066e1ab43a
+../../../FirebaseFirestore/Firestore/Source/Local/FSTLocalStore.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

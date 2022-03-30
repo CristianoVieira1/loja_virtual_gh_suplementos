@@ -1,0 +1,5 @@
+XSym
+0094
+2a4b86fb6a4691c1f7a3ddd1b586d64a
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/leveldb_index_manager.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

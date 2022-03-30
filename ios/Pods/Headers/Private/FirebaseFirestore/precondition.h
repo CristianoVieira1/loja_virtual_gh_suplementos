@@ -1,0 +1,5 @@
+XSym
+0085
+78fb6f8019056a0e1b2aa40396230022
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/model/precondition.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

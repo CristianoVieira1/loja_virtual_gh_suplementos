@@ -1,0 +1,5 @@
+XSym
+0073
+647345f8fdd77a7c6ae24d4fc2b1efee
+../../../FirebaseAuth/Firebase/Auth/Source/RPCs/FIRCreateAuthURIRequest.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

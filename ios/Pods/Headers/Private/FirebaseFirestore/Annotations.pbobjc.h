@@ -1,0 +1,5 @@
+XSym
+0080
+37a9d686606e5d8457de087bd8d5d720
+../../../FirebaseFirestore/Firestore/Protos/objc/google/api/Annotations.pbobjc.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

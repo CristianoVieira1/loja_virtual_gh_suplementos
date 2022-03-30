@@ -1,0 +1,5 @@
+XSym
+0072
+de99042342e7a8506fc9062eb1244835
+../../../FirebaseAuth/Firebase/Auth/Source/FIRAuthTokenResult_Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

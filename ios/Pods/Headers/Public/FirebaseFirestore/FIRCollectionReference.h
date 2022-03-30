@@ -1,0 +1,5 @@
+XSym
+0075
+0af45a01747cf7e5254f3342bed192a5
+../../../FirebaseFirestore/Firestore/Source/Public/FIRCollectionReference.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

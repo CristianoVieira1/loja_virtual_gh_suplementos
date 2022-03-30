@@ -1,0 +1,5 @@
+XSym
+0080
+d6f1056f0ce1a0d8db8986551bdc5741
+../../../../.symlinks/plugins/cloud_firestore/ios/Classes/CloudFirestorePlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

@@ -1,0 +1,5 @@
+XSym
+0081
+368805241d9b1eba862fbc3c1f43c299
+../../../FirebaseFirestore/Firestore/Source/API/FIRCollectionReference+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              

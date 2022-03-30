@@ -1,0 +1,5 @@
+XSym
+0070
+8d0df09f3140cf20878fc0e1414f407d
+../../../FirebaseFirestore/Firestore/Source/Remote/FSTSerializerBeta.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

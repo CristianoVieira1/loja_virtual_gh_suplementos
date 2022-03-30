@@ -1,0 +1,5 @@
+XSym
+0078
+014ed675397506e3c55795a551c6bd28
+../../../FirebaseFirestore/Firestore/Source/API/FIRDocumentSnapshot+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

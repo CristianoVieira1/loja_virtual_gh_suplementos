@@ -1,0 +1,5 @@
+XSym
+0091
+d62e7910d9a3ac97c311aacf211eebca
+../../../FirebaseAuth/Firebase/Auth/Source/AuthProviders/Twitter/FIRTwitterAuthCredential.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

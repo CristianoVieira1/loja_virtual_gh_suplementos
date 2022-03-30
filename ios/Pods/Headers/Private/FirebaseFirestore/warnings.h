@@ -1,0 +1,5 @@
+XSym
+0080
+89af4faa03d3ab0eaa0347268dbadfa3
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/util/warnings.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

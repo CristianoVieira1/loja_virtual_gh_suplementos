@@ -1,0 +1,5 @@
+XSym
+0067
+1a85b65277e61653e81f2adfc7ae5031
+../../../FirebaseFirestore/Firestore/Source/Public/FIRTransaction.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

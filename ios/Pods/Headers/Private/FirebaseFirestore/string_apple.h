@@ -1,0 +1,5 @@
+XSym
+0084
+c79389a46b5f248a953c193b30db3cea
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/util/string_apple.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

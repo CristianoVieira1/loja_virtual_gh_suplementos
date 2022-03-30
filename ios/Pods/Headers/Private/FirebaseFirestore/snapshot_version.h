@@ -1,0 +1,5 @@
+XSym
+0089
+989cfa199a1b093af51297d93b219f23
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/model/snapshot_version.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

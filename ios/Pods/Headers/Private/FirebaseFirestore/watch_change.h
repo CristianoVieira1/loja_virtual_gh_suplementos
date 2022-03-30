@@ -1,0 +1,5 @@
+XSym
+0086
+218514d0059435a0d603d98095528084
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/remote/watch_change.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

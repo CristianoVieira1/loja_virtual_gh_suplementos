@@ -1,0 +1,5 @@
+XSym
+0087
+83d9eaec7da5e8738219966ed3d0e84b
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/immutable/sorted_set.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

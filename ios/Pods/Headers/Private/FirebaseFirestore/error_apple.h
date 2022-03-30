@@ -1,0 +1,5 @@
+XSym
+0083
+27034e59dbb5665dc2e2e7508c79d11f
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/util/error_apple.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

@@ -1,0 +1,5 @@
+XSym
+0070
+16c2f73169dce7d608b9184f218eaa58
+../../../FirebaseFirestore/Firestore/Source/API/FSTUserDataConverter.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

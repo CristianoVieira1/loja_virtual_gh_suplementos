@@ -1,0 +1,5 @@
+XSym
+0070
+0e41c0845f5f60a7be34589377c44d2b
+../../../FirebaseFirestore/Firestore/Source/Public/FirebaseFirestore.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

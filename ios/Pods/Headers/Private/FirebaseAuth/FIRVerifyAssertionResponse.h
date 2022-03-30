@@ -1,0 +1,5 @@
+XSym
+0076
+386ea9305fe690147955d0866453fa22
+../../../FirebaseAuth/Firebase/Auth/Source/RPCs/FIRVerifyAssertionResponse.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

@@ -1,0 +1,5 @@
+XSym
+0085
+863dde4ff500f44c6242c806b0bc4032
+../../../FirebaseFirestore/Firestore/third_party/Immutable/FSTArraySortedDictionary.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

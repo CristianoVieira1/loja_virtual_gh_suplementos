@@ -1,0 +1,5 @@
+XSym
+0085
+6fc0ea2d0cfe5e6434806423221d3c43
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/api/query_snapshot.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

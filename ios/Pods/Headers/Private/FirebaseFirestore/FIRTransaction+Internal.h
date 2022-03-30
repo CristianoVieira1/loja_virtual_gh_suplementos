@@ -1,0 +1,5 @@
+XSym
+0073
+670aff1807c95616c0f3975cef25cce0
+../../../FirebaseFirestore/Firestore/Source/API/FIRTransaction+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

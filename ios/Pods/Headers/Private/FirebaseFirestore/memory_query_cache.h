@@ -1,0 +1,5 @@
+XSym
+0091
+bd6fa348af638f5dbc7a2622846aea85
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/memory_query_cache.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

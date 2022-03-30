@@ -1,0 +1,5 @@
+XSym
+0084
+18b7d607a6f9cda99153c0a7bde94a1a
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/remote/serializer.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

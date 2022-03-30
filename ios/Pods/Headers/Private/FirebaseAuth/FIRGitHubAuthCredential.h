@@ -1,0 +1,5 @@
+XSym
+0089
+11ca683e473d8dcad7890104c7a5c3ff
+../../../FirebaseAuth/Firebase/Auth/Source/AuthProviders/GitHub/FIRGitHubAuthCredential.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

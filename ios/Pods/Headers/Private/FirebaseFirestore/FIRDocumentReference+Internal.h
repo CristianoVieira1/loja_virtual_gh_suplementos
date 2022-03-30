@@ -1,0 +1,5 @@
+XSym
+0079
+ab98c10b21b4b956941ec361b8ae67ee
+../../../FirebaseFirestore/Firestore/Source/API/FIRDocumentReference+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

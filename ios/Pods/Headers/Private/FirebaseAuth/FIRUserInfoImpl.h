@@ -1,0 +1,5 @@
+XSym
+0060
+20b44c3295639e6a751fd9c2b54c672b
+../../../FirebaseAuth/Firebase/Auth/Source/FIRUserInfoImpl.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

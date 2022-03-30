@@ -1,0 +1,5 @@
+XSym
+0063
+8d7bb0d946c48b309e6f2bb83b3d28bf
+../../../FirebaseFirestore/Firestore/Source/Model/FSTMutation.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

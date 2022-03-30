@@ -1,0 +1,5 @@
+XSym
+0087
+3c5f594cf3fe43c8a2b82c2b812376ef
+../../../FirebaseFirestore/Firestore/Protos/objc/google/firestore/v1/Firestore.pbobjc.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

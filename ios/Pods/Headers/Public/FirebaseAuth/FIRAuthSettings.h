@@ -1,0 +1,5 @@
+XSym
+0067
+df301b32e8d327405facf91710d25362
+../../../FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthSettings.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            

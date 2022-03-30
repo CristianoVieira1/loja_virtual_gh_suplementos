@@ -1,0 +1,5 @@
+XSym
+0087
+c362826ce33b85baf66f263932d2d076
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/model/mutation_batch.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

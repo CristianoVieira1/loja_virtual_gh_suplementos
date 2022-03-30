@@ -1,0 +1,5 @@
+XSym
+0069
+ebd8c704d156afe934e9e76b66d2cd59
+../../../FirebaseFirestore/Firestore/Source/API/FIRFirestoreVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          

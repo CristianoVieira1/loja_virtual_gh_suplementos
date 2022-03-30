@@ -1,0 +1,5 @@
+XSym
+0082
+c382cc9ca1a2a40edbffcd145f464247
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/util/string_win.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

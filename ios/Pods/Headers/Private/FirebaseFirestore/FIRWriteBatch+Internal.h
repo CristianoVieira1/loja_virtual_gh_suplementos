@@ -1,0 +1,5 @@
+XSym
+0072
+d3b5c854dd08964cdb6e1cbc6f2ce660
+../../../FirebaseFirestore/Firestore/Source/API/FIRWriteBatch+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       

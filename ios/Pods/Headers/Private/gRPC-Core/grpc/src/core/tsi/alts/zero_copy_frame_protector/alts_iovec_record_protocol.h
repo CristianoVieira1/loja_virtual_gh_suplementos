@@ -1,0 +1,5 @@
+XSym
+0109
+490c17bd4ba44b850b1dfbe8988afbd1
+../../../../../../../../../gRPC-Core/src/core/tsi/alts/zero_copy_frame_protector/alts_iovec_record_protocol.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  

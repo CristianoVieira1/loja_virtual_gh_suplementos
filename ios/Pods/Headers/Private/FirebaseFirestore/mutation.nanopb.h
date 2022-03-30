@@ -1,0 +1,5 @@
+XSym
+0084
+bbaf0f28b644ee2bb286d41d6432aeb7
+../../../FirebaseFirestore/Firestore/Protos/nanopb/firestore/local/mutation.nanopb.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

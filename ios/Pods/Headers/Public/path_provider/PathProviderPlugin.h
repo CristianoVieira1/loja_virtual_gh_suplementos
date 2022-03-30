@@ -1,0 +1,5 @@
+XSym
+0076
+9b836d866c636e2fa78715803bb0f9b7
+../../../../.symlinks/plugins/path_provider/ios/Classes/PathProviderPlugin.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

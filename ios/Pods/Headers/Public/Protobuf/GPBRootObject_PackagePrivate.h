@@ -1,0 +1,5 @@
+XSym
+0059
+d20912ee80510d0f8e613aa895080059
+../../../Protobuf/objectivec/GPBRootObject_PackagePrivate.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

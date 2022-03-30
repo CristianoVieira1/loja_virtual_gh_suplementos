@@ -1,0 +1,5 @@
+XSym
+0089
+a313a15ce0e61b23df2e0815edddf6e3
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/util/filesystem_detail.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

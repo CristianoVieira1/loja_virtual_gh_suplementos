@@ -1,0 +1,5 @@
+XSym
+0086
+dfba89ec12b3b56587d6911d61295054
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/remote/write_stream.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

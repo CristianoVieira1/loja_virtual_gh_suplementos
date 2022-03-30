@@ -1,0 +1,5 @@
+XSym
+0078
+1bfe55b6e10bbaebba77c8ba0fa4665b
+../../../FirebaseFirestore/Firestore/Source/API/FIRSnapshotMetadata+Internal.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

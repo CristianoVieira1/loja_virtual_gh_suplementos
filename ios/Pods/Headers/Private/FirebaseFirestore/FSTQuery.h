@@ -1,0 +1,5 @@
+XSym
+0059
+8dd6050a9becaff07b4e03536ddfff68
+../../../FirebaseFirestore/Firestore/Source/Core/FSTQuery.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    

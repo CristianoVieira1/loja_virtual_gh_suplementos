@@ -1,0 +1,5 @@
+XSym
+0071
+766a4bd8a91b09c856303fded9fdf894
+../../../FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        

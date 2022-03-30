@@ -1,0 +1,5 @@
+XSym
+0058
+78e6b45bdc68e788f0bcb6be96378f69
+../../../FirebaseFirestore/Firestore/Source/Core/FSTView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

@@ -1,0 +1,5 @@
+XSym
+0094
+6f8f360353ec4ce85b1feef41cc3a188
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/memory_mutation_queue.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

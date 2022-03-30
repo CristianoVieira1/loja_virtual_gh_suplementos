@@ -1,0 +1,5 @@
+XSym
+0073
+715b2d45f6a279b25a7cb52f8a5e9efe
+../../../FirebaseAuth/Firebase/Auth/Source/Public/FIRGitHubAuthProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      

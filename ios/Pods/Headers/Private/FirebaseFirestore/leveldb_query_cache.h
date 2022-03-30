@@ -1,0 +1,5 @@
+XSym
+0092
+d558b3cb41e252825976b667062dc088
+../../../FirebaseFirestore/Firestore/core/src/firebase/firestore/local/leveldb_query_cache.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   

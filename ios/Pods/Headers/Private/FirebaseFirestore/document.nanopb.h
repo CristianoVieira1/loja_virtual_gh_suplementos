@@ -1,0 +1,5 @@
+XSym
+0088
+d3cbe83a46476384594820226b6c884b
+../../../FirebaseFirestore/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
